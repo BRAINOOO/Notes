@@ -1,0 +1,13 @@
+1- when you do binary search 
+
+while(l<=h)
+{
+   mid=(l+h)/2;
+   
+   if(check valid)
+   // some stuff , ans=mid;
+   else
+   // some stuff;
+}
+store answer and it will be the answer and till l<=h (<=).
+-------------------------------------------------------------------------------------------------------------------------------------------
